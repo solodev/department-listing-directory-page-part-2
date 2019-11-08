@@ -31,7 +31,7 @@ The tutorial contains the following basic HTML markup.
       
     <div class="author-info pt-4 pb-4">
       <div class="row">
-        <div class="avatar col-sm-3 col-xs-12"><img src="images/team_lifesciences.jpg" class="img-responsive" alt="department icon"></div>
+        <div class="avatar col-sm-3 col-xs-12"><img src="https://raw.githubusercontent.com/solodev/department-listing-directory-page-part-2/master/images/team_lifesciences.jpg" class="img-responsive" alt="department icon"></div>
           <div class="col-sm-9 col-xs-12">
             <h2>Jacquelyn Li</h2>
             <p class="p1"><span class="s1">Jacquelyn has been with LunarXP since the beginning of the program.</span></p>
